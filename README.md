@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ilovehacking92/ilovehacking92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilovehacking92&theme=radical&hide_border=true"/>
 </p>
