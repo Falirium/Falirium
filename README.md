@@ -12,5 +12,6 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilovehacking92&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilovehacking92&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilovehacking92&theme=tokyonight" />
 </p>
